@@ -556,3 +556,19 @@ The right-side panel acts as a centralized command center, divided into three sp
 5. **Export:** Choose your export mode from the bottom control bar and hit `Save Selected Format`, or send a telemetry summary via the Telegram integration.
 
 > *Disclaimer: This software is built for advanced network intelligence and routing optimization. Please ensure you comply with the rate limits and terms of service of the respective IP geolocation providers.*
+
+## 🔑 License & Activation
+
+This software operates on a strict online verification system, offering both **Free** and **Pro** access tiers. To obtain your unique license key and activate the application, please join our official Telegram community.
+
+<div align="center">
+  <img width="501" height="377" alt="License Verification System" src="https://github.com/user-attachments/assets/f7ecf0bc-53a0-4713-8b40-0fe08611f4c7" />
+</div>
+
+### 🚀 How to Get Your License Key:
+
+1. **Join the Community:** Join our official [Telegram Channel](https://t.me/FeroRay).
+2. **Request Access:** Follow the instructions in the channel to receive your personal **Free** or **Pro** license code.
+3. **Activate:** Enter the provided code into the application's verification prompt to authenticate your access.
+
+> **Note:** Each license is securely verified against our online database. Please do not share your personal key with others.
